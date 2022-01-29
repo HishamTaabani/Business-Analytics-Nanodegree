@@ -83,7 +83,7 @@ Tools: Microsoft Word, Tableau
 
 
 
-for more information[please check](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Business+Analytics+Nanodegree+Program+Syllabus+2.0.pdf)
+for more information [please check](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Business+Analytics+Nanodegree+Program+Syllabus+2.0.pdf)
 
 
 ![BAND_HichamTaabani_Misk_SDAIA_page-0001](https://user-images.githubusercontent.com/60016859/151680225-e6e8757d-f7d0-42d1-9fca-d362bfd1aa55.jpg)
