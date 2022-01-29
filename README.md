@@ -4,7 +4,7 @@
 
 
 
-Awarded a scholarship to undertake a Nanodegree in Business Analytics from MISK Acadmey, UDACITY and SDAIA. 
+>Awarded a scholarship to undertake a Nanodegree in Business Analytics from MISK Acadmey, UDACITY and SDAIA. 
 
 Tools Used in this Nanodegree: Microsoft Excel, SQL, Tableau 
 
