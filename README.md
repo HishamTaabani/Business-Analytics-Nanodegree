@@ -39,3 +39,6 @@ Sharing insights is an integral part of working with data. In this project, youâ
 dashboards with Tableau to tell stories from data. Youâ€™ll use a dataset of flight delays in the US to
 visualize the quality of airlines and airports, find the best times to fly, and more. These types of
 visualizations help guide decision making to reach the best outcomes.
+
+for more information please check: 
+https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Business+Analytics+Nanodegree+Program+Syllabus+2.0.pdf
