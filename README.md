@@ -1,5 +1,6 @@
 # Business Analytics Udacity Nanodegree
-![miska](https://user-images.githubusercontent.com/60016859/151680049-40896df4-de68-4ca3-af65-e2a2dbacdbe9.png)
+![miska](https://user-images.githubusercontent.com/60016859/151680085-28199458-1e50-43b7-aca8-ff6b258e807b.png)
+
 
 
 
