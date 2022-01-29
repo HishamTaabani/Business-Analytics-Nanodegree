@@ -4,7 +4,7 @@
 
 
 
->Awarded a scholarship to undertake a Nanodegree in Business Analytics from MISK Acadmey, UDACITY and SDAIA. 
+Awarded a scholarship to undertake a Nanodegree in Business Analytics from MISK Acadmey, UDACITY and SDAIA. 
 
 Tools Used in this Nanodegree: Microsoft Excel, SQL, Tableau 
 
@@ -35,11 +35,11 @@ A large part of working with data is being able to interpret data visualizations
 others. This project will build your intuition on working with data dashboards, while also showing you the
 types of beautiful visualizations you will be able to produce by the end of this program!
 
-Project: Interpret a Data Visualization
+>Project: Interpret a Data Visualization
 
-In this project, you’ll explore an interactive data dashboard to uncover insights. You’ll write a short report explaining each insight, and how you found the information to reach your conclusion from the dashboard.
+>In this project, you’ll explore an interactive data dashboard to uncover insights. You’ll write a short report explaining each insight, and how you found the information to reach your conclusion from the dashboard.
 
-Tools: Powerpoint / Tableau 
+>Tools: Powerpoint / Tableau 
 
 
 # Course 2: Introduction to Data
