@@ -35,22 +35,22 @@ A large part of working with data is being able to interpret data visualizations
 others. This project will build your intuition on working with data dashboards, while also showing you the
 types of beautiful visualizations you will be able to produce by the end of this program!
 
->Project: Interpret a Data Visualization
+- Project: Interpret a Data Visualization
 
->In this project, you’ll explore an interactive data dashboard to uncover insights. You’ll write a short report explaining each insight, and how you found the information to reach your conclusion from the dashboard.
+- In this project, you’ll explore an interactive data dashboard to uncover insights. You’ll write a short report explaining each insight, and how you found the information to reach your conclusion from the dashboard.
 
->Tools: Powerpoint / Tableau 
+- Tools: Powerpoint / Tableau 
 
 
 # Course 2: Introduction to Data
 Learn how to use statistics and visuals to find and communicate insights. Develop Excel skills to manipulate,
 analyze, and visualize data in a spreadsheet. Build Excel models to analyze possible business outcomes
 
-Project: Analyze NYSE Data
+- Project: Analyze NYSE Data
 
-In this project, you'll use statistics and spreadsheet programs like Excel to analyze data from over 500 companies on the New York Stock Exchange. You'll also forecast financial metrics based on three possible scenarios for a company of your choice from the NYSE dataset.
+- In this project, you'll use statistics and spreadsheet programs like Excel to analyze data from over 500 companies on the New York Stock Exchange. You'll also forecast financial metrics based on three possible scenarios for a company of your choice from the NYSE dataset.
 
-Tools: Microsoft Excel
+- Tools: Microsoft Excel
 
 
 
@@ -61,11 +61,11 @@ statistical techniques to answer questions about the data and report your conclu
 recommendations in a report
 
 
-Project: Query a Digital Music Store Database
+- Project: Query a Digital Music Store Database
 
-In this project, you will query a digital music store database which holds information regarding the store’s media, employees, and customers. You will use the database to help the store gain an understanding of the types of music that are purchased, where customers live, and how the company might optimize their business practices.
+- In this project, you will query a digital music store database which holds information regarding the store’s media, employees, and customers. You will use the database to help the store gain an understanding of the types of music that are purchased, where customers live, and how the company might optimize their business practices.
 
-Tools: Microsoft Excel, SQL, Microsoft Word
+- Tools: Microsoft Excel, SQL, Microsoft Word
 
 
 
@@ -75,11 +75,11 @@ dashboards with Tableau to tell stories from data. You’ll use a dataset of fli
 visualize the quality of airlines and airports, find the best times to fly, and more. These types of
 visualizations help guide decision making to reach the best outcomes.
 
-Project: Build Data Dashboards
+- Project: Build Data Dashboards
 
-In this project, you’ll build interactive dashboards with Tableau and use them to discover and communicate insights from data. You’ll use a dataset of flight delays in the US to visualize the quality of airlines and airports, find the best times to fly, and more.
+- In this project, you’ll build interactive dashboards with Tableau and use them to discover and communicate insights from data. You’ll use a dataset of flight delays in the US to visualize the quality of airlines and airports, find the best times to fly, and more.
 
-Tools: Microsoft Word, Tableau
+- Tools: Microsoft Word, Tableau
 
 
 
