@@ -4,10 +4,7 @@
 
 
 
-Awarded a scholarship to undertake a Nanodegree in Business Analytics from Misk Acadmey, Udacity and Sdaia. we 
-
-
-The challenge course consisted of an introduction to python, an introduction to descriptive statistics and SQL for data analysis.
+Awarded a scholarship to undertake a Nanodegree in Business Analytics from MISK Acadmey, UDACITY and SDAIA. 
 
 Tools Used in this Nanodegree: Microsoft Excel, SQL, Tableau 
 
