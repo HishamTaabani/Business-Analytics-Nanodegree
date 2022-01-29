@@ -85,3 +85,6 @@ Tools: Microsoft Word, Tableau
 
 for more information please check: 
 https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Business+Analytics+Nanodegree+Program+Syllabus+2.0.pdf
+
+[BAND_HichamTaabani_Misk_SDAIA.pdf](https://github.com/HishamTaabani/Business-Analytics-Nanodegree/files/7964922/BAND_HichamTaabani_Misk_SDAIA.pdf)
+
