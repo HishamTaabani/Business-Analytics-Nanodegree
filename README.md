@@ -1,4 +1,6 @@
 # Business Analytics Udacity Nanodegree
+![miska](https://user-images.githubusercontent.com/60016859/151680049-40896df4-de68-4ca3-af65-e2a2dbacdbe9.png)
+
 
 
 Awarded a scholarship to undertake a Nanodegree in Business Analytics from Misk Acadmey, Udacity and Sdaia. we 
