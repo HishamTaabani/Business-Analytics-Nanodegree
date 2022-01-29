@@ -30,7 +30,7 @@ months
 
 
 # Course 1: Welcome to the Program
->You will then get to work on your first project, where you will draw insights from interactive dashboards.
+You will then get to work on your first project, where you will draw insights from interactive dashboards.
 A large part of working with data is being able to interpret data visualizations and explain your insights to
 others. This project will build your intuition on working with data dashboards, while also showing you the
 types of beautiful visualizations you will be able to produce by the end of this program!
